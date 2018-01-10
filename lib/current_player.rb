@@ -7,5 +7,6 @@ def turn_count(board)
     else
       counter += 0
     end
+    counter
   end
 end
